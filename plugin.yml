@@ -1,0 +1,8 @@
+﻿name: CustomDrop
+main: com.kunyihua.customdrop.Main
+version: 1.0.4
+commands:
+   cdrop:
+      description: CustomDrop Commands.
+      permission: CustomDrop.cdrop
+      permission-message: 你沒有足夠的權限
